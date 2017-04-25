@@ -1,2 +1,2 @@
 # crontab-parser
-A demo parsing specify struct strategy to crontab.
+A demo parsing temporal strategy with specify struct to crontab.
