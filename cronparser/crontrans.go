@@ -88,6 +88,9 @@ func CronTranslate(scheduleType E_SCHEDULE_TYPE, scheduleDetail string) (crontab
 		if err != nil {
 			return "", "", err
 		}
+		if week == "7" {
+			week = 0
+		}
 		crontab = fmt.Sprintf("%s %s * * %s", strconv.Itoa(timeParse.Minute()), strconv.Itoa(timeParse.Hour()), week)
 
 	//每月
