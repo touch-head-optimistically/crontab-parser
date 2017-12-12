@@ -1,6 +1,8 @@
 
 # Golang tools for me
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/touch-head-optimistically/mygolangtools)](https://goreportcard.com/report/github.com/touch-head-optimistically/mygolangtools)
+
 ###     crontab-parser
 A demo parsing temporal strategy with specify struct to crontab.
 
