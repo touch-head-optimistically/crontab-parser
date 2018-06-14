@@ -12,6 +12,18 @@ A demo testing cron I/O.
 ###     cronRobCron
 A test for confirming Robfig/cron.
 
+###     alioss
+Not bad.
+
+###		datax2SQL
+parse a datax conf and get a creat table sql.
+
+###		krb5test
+test auth kerberos in golang.
+
+###     testRobCron
+test petformance demo for Rob/cron. 
+
 
 
 
