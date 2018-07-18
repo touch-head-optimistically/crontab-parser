@@ -2,7 +2,6 @@
 # Golang tools zzz
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/touch-head-optimistically/mygolangtools)](https://goreportcard.com/report/github.com/touch-head-optimistically/mygolangtools)
-
 [![Build Status](https://travis-ci.org/touch-head-optimistically/mygolangtools.svg?branch=master)](https://travis-ci.org/touch-head-optimistically/mygolangtools)
 
 ###     crontab-parser
